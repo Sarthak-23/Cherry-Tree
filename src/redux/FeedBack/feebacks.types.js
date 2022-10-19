@@ -1,0 +1,7 @@
+const feedbackTypes = {
+    ADD_FEEDBACKS_START: 'ADD_FEEDBACKS_START',
+    FETCH_FEEDBACKS_START: 'FETCH_FEEDBACKS_START',
+    SET_FEEDBACKS: 'SET_FEEDBACKS',
+};
+
+export default feedbackTypes;
